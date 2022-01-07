@@ -20,7 +20,7 @@ cardHolderName = ""    #Card holders name
 cardExpiry = ""   #Card expiry
 buy = int("") #Type 1 to autobuy, type 2 to not buy
 
-chromeDriverPath = "D:/Programming/Python/chromedriver_win32/chromedriver.exe"  #Enter full path of the chrome driver which you are using
+chromeDriverPath = ""  #Enter full path of the chrome driver which you are using
 
 
 #SCRIPT 
